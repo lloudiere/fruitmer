@@ -1,0 +1,41 @@
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+
+}
+
+.form .box{
+    display: flex
+;
+    flex-direction: column;
+    width: 100%;
+    border: 1px solid green;
+    height: 510px;
+    gap: 17px;
+    padding: 16px;
+    justify-content: space-around;
+}
+.form .box input{
+    width: 100%;
+    font-size: 1.2em;
+}
+.form .box input a{
+    width: 100%;
+    font-size: 1.2em;
+}
+
+.form .box button{
+    width: 100%;
+    font-size: 1.2em;
+}
+
+
+.form .box select{
+    width: 100%;
+    font-size: 1.2em;
+}
+
+

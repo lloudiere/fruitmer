@@ -1,0 +1,111 @@
+/* FORMULAIRE CONTACT */
+
+.formulaire .allFormulaire{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 70px;
+    color: var(--main-green-color);
+}
+
+.formulaire .allFormulaire h2{
+    font-size: 40px;
+}
+
+.formulaire .allFormulaire p {
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+
+.test{
+    display: flex;
+    flex-direction: column;
+}
+
+.test label{
+    font-size: 20px;
+    padding-bottom: 5px;
+    color: var(--main-green-color);
+}
+
+.test input{
+    width: 300px;
+    height: 40px;
+    border: none;
+    outline: none;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+.identifiant{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.ContactForm{
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+    gap: 30px;
+}
+
+.selectForm{
+    display: flex;
+    padding-top: 30px;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.selectForm label{
+    font-size: 20px;
+}
+
+.selectForm select{
+    outline: none;
+    border: none;
+    height: 45px;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    font-size: 16px;
+    color: var(--main-green-color);
+    padding-left: 20px;
+}
+
+.selectForm textarea{
+    outline: none;
+    border: none;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+}
+
+.selectForm textarea::placeholder{
+    padding-left: 20px;
+    padding-top: 10px;
+    font-size: 15px;
+}
+
+.formulaire .allFormulaire form .btnForm{
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+.formulaire .allFormulaire form .btnForm button{
+    display: flex;
+    width: 25%;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    background-color: var(--main-green-color);
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.2);
+    border-radius: 7px;
+    cursor: pointer;
+    margin-top: 20px;
+    border: none;
+    outline: none;
+}

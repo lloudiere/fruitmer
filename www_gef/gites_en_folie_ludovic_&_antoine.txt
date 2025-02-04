@@ -1,0 +1,10 @@
+Projet 		: toggle Jour Nuit | HTML CSS & Javascript
+Date	 	: 26/11/2024
+Centre 		: Via Formation
+Session		: Développeur web et web mobile
+Formateur 	: Eddy Colliot
+Apprenant 	: Ludovic Loudière
+Outils 		: html css javascript
+Support		: tutoyoutube =>https://www.youtube.com/watch?v=zrBVFGlnyA8
+Historique  : 26/11/2024 - Suivi du tuto HTML CSS Javascript.
+              
